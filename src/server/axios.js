@@ -2,7 +2,7 @@ import axios from 'axios'
 // import Vue from 'vue'
 
 // 全局配置
-const url = 'http://api.feigo.test/' // 测试环境
+const url = '' // 测试环境
 
 const $http = axios.create({
   baseURL: url, // 根路径
