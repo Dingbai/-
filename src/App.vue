@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <!-- <p>hello nihao</p> -->
-    <!-- <router-link to="/HelloWorld">按钮</router-link> -->
+		<!-- <router-link to="/HelloWorld">按钮</router-link> -->
+		hello world test git merge
     <router-view />
   </div>
 </template>
