@@ -12,6 +12,8 @@ export default {
   name: 'App',
   created () {
     // console.log(this.$router)
+		console.log('hello world');
+    console.log(this.$router)
   }
 }
 </script>
