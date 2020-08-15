@@ -11,6 +11,7 @@
 export default {
   name: 'App',
   created () {
+		console.log('hello world');
     console.log(this.$router)
   }
 }
